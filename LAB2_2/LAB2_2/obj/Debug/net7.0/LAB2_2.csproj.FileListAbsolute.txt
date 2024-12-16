@@ -1,0 +1,15 @@
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/bin/Debug/net7.0/LAB2_2
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/bin/Debug/net7.0/LAB2_2.deps.json
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/bin/Debug/net7.0/LAB2_2.runtimeconfig.json
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/bin/Debug/net7.0/LAB2_2.dll
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/bin/Debug/net7.0/LAB2_2.pdb
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/LAB2_2.csproj.AssemblyReference.cache
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/LAB2_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/LAB2_2.AssemblyInfoInputs.cache
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/LAB2_2.AssemblyInfo.cs
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/LAB2_2.csproj.CoreCompileInputs.cache
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/LAB2_2.dll
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/refint/LAB2_2.dll
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/LAB2_2.pdb
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/LAB2_2.genruntimeconfig.cache
+/Users/danilmakovskiy/Projects/LAB2_2/LAB2_2/obj/Debug/net7.0/ref/LAB2_2.dll
